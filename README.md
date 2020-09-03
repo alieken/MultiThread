@@ -1,2 +1,2 @@
 # MultiThread
-Multi Thread kullanılarak yapılmış musluk problemi çözümü
+Multi Thread kullanılarak yapılmış işlem sayacı ve kontrolü
